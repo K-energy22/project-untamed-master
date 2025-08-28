@@ -1,0 +1,688 @@
+# See the documentation on the wiki to learn how to edit this file.
+#---------------------------------------------------------------------------------------------
+# MEGAS
+#---------------------------------------------------------------------------------------------
+[NOCTAVISPA,1]
+FormName = Mega Noctavispa
+MegaStone = NOCTAVISPITE
+BaseStats = 65,134,78,107,107,69
+Abilities = INTIMIDATE
+HiddenAbilities = INTIMIDATE
+Height = 0.9
+Weight = 18.6
+#-------------------------------
+[GOHILA,1]
+FormName = Mega Gohila
+MegaStone = GOHILITE
+Type1 = POISON
+Type2 = ELECTRIC
+BaseStats = 97,63,71,111,145,113
+Abilities = CORROSION
+HiddenAbilities = CORROSION
+Height = 0.3
+Weight = 3.5
+#-------------------------------
+[ATELANGLER,1]
+FormName = Mega Atelangler
+MegaStone = ATELANGLITE
+Type1 = NORMAL
+Type2 = WATER
+BaseStats = 95,133,106,109,58,85
+Abilities = BAITEDLINE
+HiddenAbilities = BAITEDLINE
+Height = 1.9
+Weight = 46.7
+Color = Yellow
+Shape = Finned
+#-------------------------------
+[CHIXULOB,1]
+FormName = Mega Chixulob
+MegaStone = CHIXULITE
+BaseStats = 75,107,78,138,156,71
+Abilities = DRAGONSMAW
+HiddenAbilities = DRAGONSMAW
+Height = 72.0
+Weight = 3580.0
+#-------------------------------
+[XATU,1]
+FormName = Mega Xatu
+MegaStone = XATUNITE
+Type1 = PSYCHIC
+Type2 = FIRE
+BaseStats = 75,87,71,98,123,126
+Abilities = PREMONITION
+HiddenAbilities = PREMONITION
+Height = 1.9
+Weight = 19.7
+#-------------------------------
+[FLYGON,1]
+FormName = Mega Flygon
+MegaStone = FLYGONITE
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 100,130,80,120,130,80
+Abilities = COMPOUNDEYES
+HiddenAbilities = COMPOUNDEYES
+Height = 2.6
+Weight = 117.9
+Shape = MultiWinged
+#-------------------------------
+[MILOTIC,1]
+FormName = Mega Milotic
+MegaStone = MILOTITE
+Type1 = WATER
+Type2 = FAIRY
+BaseStats = 95,60,99,91,130,165
+Abilities = DAZZLING
+HiddenAbilities = DAZZLING
+Height = 7.6
+Weight = 193.4
+#-------------------------------
+[SUCHOBILE,1]
+FormName = Mega Suchobile
+MegaStone = SUCHOBITE
+BaseStats = 110,140,95,40,140,90
+Abilities = STRONGJAW
+HiddenAbilities = STRONGJAW
+Height = 2.7
+Weight = 345.6
+#------------------------------- 
+[SKARMORY,1]
+FormName = Mega Skarmory
+MegaStone = SKARMORITE
+BaseStats = 65,135,145,95,40,85
+Abilities = BATTLEARMOR
+HiddenAbilities = BATTLEARMOR
+Height = 1.9
+Weight = 60.3
+Shape = MultiWinged
+#---------------------------------------------------------------------------------------------
+[BEHEEYEM,1]
+FormName = Mega Beheeyem
+MegaStone = BEHEEYEMITE
+Types = PSYCHIC,ELECTRIC
+BaseStats = 75,85,95,60,145,125
+Abilities = MAGNETPULL
+HiddenAbilities = MAGNETPULL
+Height = 2.5
+Weight = 44.8
+#------------------------------- 
+[GOLURK,1]
+FormName = Mega Golurk
+MegaStone = GOLURKITE
+Types = GROUND,FLYING
+BaseStats = 89,134,105,105,70,80
+Abilities = AERILATE
+HiddenAbilities = AERILATE
+Height = 1.7
+Weight = 300.0
+Shape = HeadArms
+#------------------------------- 
+[HAWLUCHA,1]
+FormName = Mega Hawlucha
+MegaStone = HAWLUCHITE
+BaseStats = 78,120,85,140,94,83
+Abilities = VOLTAICSPIRIT
+HiddenAbilities = VOLTAICSPIRIT
+Height = 0.9
+Weight = 38.3
+Color = Red
+#------------------------------- 
+[CACTURNE,1]
+FormName = Mega Cacturne
+MegaStone = CACTURNITE
+BaseStats = 70,135,80,75,135,80
+Abilities = SANDRUSH
+HiddenAbilities = SANDRUSH
+Height = 1.6
+Weight = 92.1
+#------------------------------- 
+[FROSMOTH,1]
+FormName = Mega Frosmoth
+MegaStone = FROSMOTHITE
+Types = ICE,FIRE
+BaseStats = 70,65,100,95,145,100
+Abilities = ICESCALES
+HiddenAbilities = ICESCALES
+Height = 1.4
+Weight = 51.0
+#------------------------------- 
+[CHIMECHO,1]
+FormName = Mega Chimecho
+MegaStone = CHIMECHITE
+Types = PSYCHIC,STEEL
+BaseStats = 75,50,100,80,120,130
+Abilities = LEVITATE
+HiddenAbilities = LEVITATE
+Height = 0.9
+Weight = 3.4
+#------------------------------- 
+[PORYGONZ,1]
+FormName = Mega Porygon-Z
+MegaStone = PORYGONZITE
+BaseStats = 85,118,85,102,150,95
+Abilities = OVERWRITE
+HiddenAbilities = OVERWRITE
+Height = 1.1
+Weight = 38.7
+#------------------------------- 
+[MAGCARGO,1]
+FormName = Mega Magcargo
+MegaStone = MAGCARGOITE
+Types = FIRE,STEEL
+BaseStats = 60,50,160,30,130,100
+Abilities = REGENERATOR
+HiddenAbilities = REGENERATOR
+Height = 1.1
+Weight = 120.5
+#------------------------------- 
+[SPECTERZAL,1]
+FormName = Mega Specterzal
+MegaStone = SPECTERZITE
+BaseStats = 120,145,86,96,105,95
+Abilities = TOUGHCLAWS
+HiddenAbilities = TOUGHCLAWS
+Height = 5.6
+Weight = 237.2
+#------------------------------- 
+[TREVENANT,1]
+FormName = Mega Trevenant
+MegaStone = TREVENANTITE
+BaseStats = 85,135,107,66,90,107
+Abilities = GRASSYSURGE
+HiddenAbilities = GRASSYSURGE
+Height = 3.0
+Weight = 89.5
+#------------------------------- 
+[M_ROSERADE,1]
+FormName = Mega Roserade
+MegaStone = M_ROSERADITE
+BaseStats = 70,70,95,110,130,145
+Abilities = SEANCE
+HiddenAbilities = SEANCE
+Height = 1.0
+Weight = 14.8
+Color = Black
+#------------------------------- 
+[LUPACABRA,1]
+FormName = Mega Lupacabra
+MegaStone = LUPACABRITE
+Types = DARK,FIGHTING
+BaseStats = 80,135,135,80,55,105
+Abilities = MOXIE
+HiddenAbilities = MOXIE
+Height = 2.1
+Weight = 140.0
+#------------------------------- 
+[ZOLUPINE,1]
+FormName = Mega Zolupine
+MegaStone = ZOLUPINEITE
+Types = GHOST,WATER
+BaseStats = 60,95,70,125,135,125
+Abilities = NOGUARD
+HiddenAbilities = NOGUARD
+Height = 1.6
+Weight = 115.6
+#------------------------------- 
+[ROADRAPTOR,1]
+FormName = Mega Roadraptor
+MegaStone = ROADRAPTORITE
+BaseStats = 70,134,62,150,85,89
+Abilities = GALEWINGS
+HiddenAbilities = GALEWINGS
+Height = 1.0
+Weight = 27.0
+#------------------------------- 
+[FRIZZARD,1]
+FormName = Mega Frizzard
+MegaStone = FRIZZARDITE
+BaseStats = 80,75,99,85,145,121
+Abilities = THERMOCOOL
+HiddenAbilities = THERMOCOOL
+Height = 1.7
+Weight = 87.9
+#------------------------------- 
+[ZARCOIL,1]
+FormName = Mega Zarcoil
+MegaStone = ZARCOILITE
+BaseStats = 80,145,99,121,85,75
+Abilities = THERMOHEAT
+HiddenAbilities = THERMOHEAT
+Height = 1.3
+Weight = 78.2
+#------------------------------- #
+[LAGUNA,1]
+FormName = Mega Laguna
+MegaStone = LAGUNITE
+Types = ICE,FAIRY
+BaseStats = 50,60,80,95,110,130
+Abilities = FURCOAT
+HiddenAbilities = FURCOAT
+Height = 0.8
+Weight = 14.0
+#-------------------------------
+[SABLEYE,1]
+FormName = Mega Sableye
+MegaStone = SABLENITE
+BaseStats = 75,75,135,20,75,125
+Abilities = MAGICBOUNCE
+HiddenAbilities = MAGICBOUNCE
+Weight = 161.0
+Pokedex = Supporting a giant heavy jewel, it can't change direction very nimbly.
+#-------------------------------
+[LEDIAN,1]
+FormName = Mega Ledian
+MegaStone = LEDINITE
+Types = BUG,FIGHTING
+BaseStats = 55,130,90,105,15,120
+Abilities = IRONFIST
+HiddenAbilities = IRONFIST
+Height = 1.4
+Weight = 42.5
+#-------------------------------
+[AMPHAROS,1]
+FormName = Mega Ampharos
+MegaStone = AMPHAROSITE
+Types = ELECTRIC,DRAGON
+BaseStats = 90,95,105,45,165,110
+BaseExp = 305
+Abilities = MOLDBREAKER
+HiddenAbilities = MOLDBREAKER
+Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
+Generation = 6
+#-------------------------------
+[CAMERUPT,1]
+FormName = Mega Camerupt
+MegaStone = CAMERUPTITE
+BaseStats = 70,120,100,20,145,105
+BaseExp = 196
+Abilities = SHEERFORCE
+HiddenAbilities = SHEERFORCE
+Height = 2.5
+Weight = 320.5
+Generation = 6
+#-------------------------------
+[ABOMASNOW,1]
+FormName = Mega Abomasnow
+MegaStone = ABOMASITE
+BaseStats = 90,132,105,30,132,105
+BaseExp = 208
+HiddenAbilities = SNOWWARNING
+Height = 2.7
+Weight = 185.0
+Generation = 6
+#-------------------------------
+[MAWILE,1]
+FormName = Mega Mawile
+MegaStone = MAWILITE
+BaseStats = 50,105,125,50,55,95
+BaseExp = 168
+Abilities = HUGEPOWER
+HiddenAbilities = HUGEPOWER
+Height = 1.0
+Weight = 23.5
+Pokedex = Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
+Generation = 6
+#-------------------------------
+[BANETTE,1]
+FormName = Mega Banette
+MegaStone = BANETTITE
+BaseStats = 64,165,75,75,93,83
+BaseExp = 194
+Abilities = PRANKSTER
+HiddenAbilities = PRANKSTER
+Height = 1.2
+Weight = 13.0
+Pokedex = Extraordinary energy amplifies its cursing power to such an extent that it can't help but curse its own Trainer.
+Generation = 6
+#-------------------------------
+[GLALIE,1]
+FormName = Mega Glalie
+MegaStone = GLALITITE
+BaseStats = 85,125,85,105,125,85
+BaseExp = 203
+Abilities = REFRIGERATE
+HiddenAbilities = REFRIGERATE
+Height = 2.1
+Weight = 350.2
+Pokedex = It envelops prey in its mouth, freezing them instantly. But its jaw is dislocated, so it's unable to eat them.
+Generation = 6
+#-------------------------------
+[AUDINO,1]
+FormName = Mega Audino
+MegaStone = AUDINITE
+Types = NORMAL,FAIRY
+BaseStats = 103,60,126,50,80,126
+BaseExp = 425
+Abilities = HEALER
+HiddenAbilities = HEALER
+Height = 1.5
+Weight = 32.0
+Color = White
+Generation = 6
+#---------------------------------------------------------------------------------------------
+[ALTARIA,1]
+FormName = Mega Altaria
+MegaStone = ALTARIANITE
+Types = DRAGON,FAIRY
+BaseStats = 75,110,110,80,110,105
+Abilities = PIXILATE
+HiddenAbilities = PIXILATE
+Height = 1.5
+Weight = 45.8
+#------------------------------- 
+#---------------------------------------------------------------------------------------------
+# FORM CHANGES THAT AFFECT STATS (AND A BASIC BITCH MEGA)
+#---------------------------------------------------------------------------------------------
+[FURFROU,1]
+FormName = Heart Trim
+Types = NORMAL,FAIRY
+Abilities = CUTECHARM
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,2]
+FormName = Star Trim
+Types = NORMAL,ICE
+Abilities = SLUSHRUSH
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,3]
+FormName = Diamond Trim
+Types = NORMAL,ROCK
+Abilities = ROCKHEAD
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,4]
+FormName = Debutante Trim
+Types = NORMAL,ELECTRIC
+Abilities = STATIC
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,5]
+FormName = Matron Trim
+Types = NORMAL,PSYCHIC
+Abilities = PRESSURE
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,6]
+FormName = Dandy Trim
+Types = NORMAL,GRASS
+Abilities = NATURALCURE
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,7]
+FormName = La Reine Trim
+Types = NORMAL,WATER
+Abilities = STORMDRAIN
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,8]
+FormName = Kabuki Trim
+Types = NORMAL,FIGHTING
+Abilities = GUTS
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[FURFROU,9]
+FormName = Pharaoh Trim
+Types = NORMAL,GHOST
+Abilities = MOLDBREAKER
+BaseStats = 75,90,60,102,90,90
+#-------------------------------
+[PUMPKABOO,1]
+FormName = Average Size
+BaseStats = 49,44,70,51,66,55
+Height = 0.4
+Weight = 5.0
+#-------------------------------
+[PUMPKABOO,2]
+FormName = Large Size
+BaseStats = 54,44,70,46,66,55
+Height = 0.5
+Weight = 7.5
+#-------------------------------
+[PUMPKABOO,3]
+FormName = Super Size
+BaseStats = 59,44,70,41,66,55
+Height = 0.8
+Weight = 15.0
+WildItemCommon = MIRACLESEED
+WildItemUncommon = MIRACLESEED
+WildItemRare = MIRACLESEED
+#-------------------------------
+[GOURGEIST,1]
+FormName = Average Size
+BaseStats = 65,58,122,84,90,75
+Height = 0.9
+Weight = 12.5
+#-------------------------------
+[GOURGEIST,2]
+FormName = Large Size
+BaseStats = 75,58,122,69,95,75
+Height = 1.1
+Weight = 14.0
+#-------------------------------
+[GOURGEIST,3]
+FormName = Super Size
+BaseStats = 85,58,122,54,100,75
+Height = 1.7
+Weight = 39.0
+WildItemCommon = MIRACLESEED
+WildItemUncommon = MIRACLESEED
+WildItemRare = MIRACLESEED
+#-------------------------------
+[BEAKRAFT,1]
+FormName = Female
+BaseStats = 75,120,78,95,50,60
+Abilities = TECHNICIAN,RECKLESS
+Moves = 0,IRONHEAD,1,PECK,1,HARDEN,1,BABYDOLLEYES,4,PLUCK,8,HEADBUTT,12,METALCLAW,16,CUT,20,IRONDEFENSE,24,STEELWING,28,DRILLPECK,32,SWORDSDANCE,38,ROOST,42,NIGHTSLASH,47,BRAVEBIRD,52,LEAFBLADE,57,HEADSMASH,62,MEGAHORN
+TutorMoves = CUT,FLY,STRENGTH,DEFOG,WORKUP,HELPINGHAND,BULKUP,TAUNT,PROTECT,SANDSTORM,RETURN,DIG,LIGHTSCREEN,REFLECT,AERIALACE,FACADE,FALSESWIPE,STEELWING,FLASHCANNON,BODYPRESS,BULLETSEED,SCOURINGWINDS,GIGAIMPACT,BODYSLAM,GYROBALL,ROCKSLIDE,SCREECH,UTURN,SHADOWCLAW,ZENHEADBUTT,SWORDSDANCE,METRONOME,IRONHEAD,SUPERPOWER,SKYATTACK,DUALWINGBEAT,ROCKBLAST
+#-------------------------------
+[BEAKRAFT,2]
+FormName = Mega Beakraft ♂
+MegaStone = BEAKRAFTITE
+UnmegaForm = 0 # DO NOT CHANGE THIS
+Type1 = STEEL
+Type2 = ELECTRIC
+BaseStats = 75,125,150,88,70,70
+Abilities = MOTORDRIVE
+Height = 0.6
+Weight = 25.8
+#-------------------------------
+[BEAKRAFT,3]
+FormName = Mega Beakraft ♀
+MegaStone = BEAKRAFTITE
+UnmegaForm = 1 # DO NOT CHANGE THIS
+Type1 = STEEL
+Type2 = ELECTRIC
+BaseStats = 75,150,88,125,70,70
+Abilities = MOTORDRIVE
+Height = 0.6
+Weight = 25.8
+#-------------------------------
+#-------------------------------
+[CROACROZEN,1]
+FormName = Frozen
+Type1 = POISON
+Type2 = ICE
+BaseStats = 95,45,145,25,80,115
+Weight = 10.4
+Color = Blue
+#------------------------------- # 520 bst
+[STRELAVISON,1]
+FormName = Swarm Form
+Type1 = BUG
+Type2 = ELECTRIC
+BaseStats = 62,54,117,22,131,134
+BaseEXP = 217
+Height = 7.7
+Weight = 902.2
+Shape = MultiBody
+#-------------------------------
+[CASTFORM,1]
+FormName = Sunny Form
+Types = FIRE
+Color = Red
+Pokedex = This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.
+#-------------------------------
+[CASTFORM,2]
+FormName = Rainy Form
+Types = WATER
+Color = Blue
+Pokedex = This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.
+#-------------------------------
+[CASTFORM,3]
+FormName = Snowy Form
+Types = ICE
+Color = White
+Pokedex = This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near -5 degrees Celsius.
+#-------------------------------
+[CASTFORM,4]
+FormName = Sandy Form
+Types = GROUND
+Color = Brown
+Pokedex = This is the form Castform takes when covered in sand. Its body becomes a rough dust-like material, which is excellent replacement for steel wool.
+#-------------------------------
+[MAGIKARP,2]
+FormName = Mazian Magikarp
+Types = WATER,ROCK
+BaseStats = 20,10,80,50,15,25
+BaseExp = 40
+EVs = DEFENSE,1
+Abilities = MARVELSCALE
+HiddenAbilities = STURDY
+Moves = 1,SPLASH,15,SMACKDOWN,25,FLAIL
+TutorMoves = BODYSLAM,SURF
+Weight = 65.4
+Color = Brown
+Pokedex = These Magikarp are disliked by fishermen for their lumpy scales and putrid algae. However, some believe with enough love they will become a great treasure.
+#-------------------------------
+[GYARADOS,1]
+FormName = Mega Gyarados
+MegaStone = GYARADOSITE
+Types = WATER,DARK
+BaseStats = 95,155,109,81,70,130
+BaseExp = 224
+Abilities = MOLDBREAKER
+HiddenAbilities = MOLDBREAKER
+Weight = 305.0
+Pokedex = It zooms out of the water at Mach speeds. Even large ships caught in its path are split cleanly in two!
+Generation = 6
+#-------------------------------
+[GYARADOS,2]
+FormName = Mazian Gyarados
+Types = WATER,ROCK
+BaseStats = 95,60,100,81,125,79
+BaseExp = 189
+EVs = DEFENSE,2
+Abilities = MARVELSCALE
+HiddenAbilities = BERSERK
+Moves = 0,POWERGEM,1,BITE,1,FLAIL,1,SPLASH,1,SMACKDOWN,1,LEER,1,TWISTER,4,WHIRLPOOL,8,ANCIENTPOWER,12,BRINE,16,SCARYFACE,21,CRUNCH,24,IRONDEFENSE,28,MIRRORSHOT,32,MUDDYWATER,36,ROCKPOLISH,40,HYDROPUMP,44,FORGEBREATH,48,GEODEBURST,52,STEELBEAM
+TutorMoves = WORKUP,ROAR,SWAGGER,ROUND,ICEBEAM,BLIZZARD,RAINDANCE,NASTYPLOT,EARTHQUAKE,ROCKTOMB,FACADE,FLASHCANNON,BODYSLAM,ROCKSLIDE,DRAGONPULSE,SCREECH,STONEEDGE,GEODEBURST,SNARL,LIQUIDATION,ZENHEADBUTT,AVALANCHE,GYROBALL,BODYPRESS,SURF,STRENGTH,WATERFALL,DIVE,AQUATAIL,IRONHEAD,IRONTAIL,ROCKBLAST,FORGEBREATH,SCALESHOT,EARTHPOWER
+Weight = 314.2
+Color = Brown
+Pokedex = Prized for its valuable golden scales, it is exceptionally rare in the wild. Only those who raise Magikarp with care are able to easily obtain one.
+#---------------------------------------------------------------------------------------------
+# COSMETIC FORM CHANGES (AND ETERNAL FLOETTE)
+#---------------------------------------------------------------------------------------------
+[VIVILLON,1]
+FormName = Continental Pattern
+#-------------------------------
+[VIVILLON,2]
+FormName = Elegant Pattern
+#-------------------------------
+[VIVILLON,3]
+FormName = Garden Pattern
+#-------------------------------
+[VIVILLON,4]
+FormName = High Plains Pattern
+#-------------------------------
+[VIVILLON,5]
+FormName = Icy Snow Pattern
+#-------------------------------
+[VIVILLON,6]
+FormName = Jungle Pattern
+#-------------------------------
+[VIVILLON,7]
+FormName = Marine Pattern
+#-------------------------------
+[VIVILLON,8]
+FormName = Meadow Pattern
+#-------------------------------
+[VIVILLON,9]
+FormName = Modern Pattern
+#-------------------------------
+[VIVILLON,10]
+FormName = Monsoon Pattern
+#-------------------------------
+[VIVILLON,11]
+FormName = Ocean Pattern
+#-------------------------------
+[VIVILLON,12]
+FormName = Polar Pattern
+#-------------------------------
+[VIVILLON,13]
+FormName = River Pattern
+#-------------------------------
+[VIVILLON,14]
+FormName = Sandstorm Pattern
+#-------------------------------
+[VIVILLON,15]
+FormName = Savanna Pattern
+#-------------------------------
+[VIVILLON,16]
+FormName = Archipelago Pattern
+#-------------------------------
+[VIVILLON,17]
+FormName = Tundra Pattern
+#-------------------------------
+[VIVILLON,18]
+FormName = Fancy Pattern
+#-------------------------------
+[VIVILLON,19]
+FormName = Poké Ball Pattern
+#-------------------------------
+[FLABEBE,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLABEBE,2]
+FormName = Orange Flower
+#-------------------------------
+[FLABEBE,3]
+FormName = Blue Flower
+#-------------------------------
+[FLABEBE,4]
+FormName = White Flower
+#-------------------------------
+[FLOETTE,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLOETTE,2]
+FormName = Orange Flower
+#-------------------------------
+[FLOETTE,3]
+FormName = Blue Flower
+#-------------------------------
+[FLOETTE,4]
+FormName = White Flower
+#-------------------------------
+[FLOETTE,5]
+FormName = Eternal Flower
+BaseStats = 74,65,67,92,125,128
+BaseExp = 243
+HiddenAbilities = FAIRYAURA
+Moves = 1,TACKLE,1,VINEWHIP,1,FAIRYWIND,6,FAIRYWIND,10,LUCKYCHANT,15,RAZORLEAF,20,WISH,25,MAGICALLEAF,27,GRASSYTERRAIN,33,PETALBLIZZARD,38,AROMATHERAPY,43,MISTYTERRAIN,46,MOONBLAST,50,LIGHTOFRUIN,51,PETALDANCE,58,SOLARBEAM
+EggGroups = Undiscovered
+Pokedex = The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.
+Evolutions = FLORGES,None,
+#-------------------------------
+[FLORGES,1]
+FormName = Yellow Flower
+#-------------------------------
+[FLORGES,2]
+FormName = Orange Flower
+#-------------------------------
+[FLORGES,3]
+FormName = Blue Flower
+#-------------------------------
+[FLORGES,4]
+FormName = White Flower

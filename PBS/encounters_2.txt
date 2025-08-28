@@ -1,0 +1,96 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[022] # Veravalles Town
+Water,2
+    60,LOTAD,8,11
+    40,FEEBAS,8,11
+OldRod
+    100,LOTAD,5,5
+GoodRod
+    50,FEEBAS,10,16
+    50,LOTAD,10,15
+#-------------------------------
+[048] # Route 1
+Land,21
+    30,MINIMELO,3,4
+    30,PACUNA,3,4
+    25,WRENNER,3,4
+    15,BUDEW,3,3
+#-------------------------------
+[079] # Hacienda Castaneda
+Water,2
+    60,LOTAD,8,11
+    40,FEEBAS,8,11
+OldRod
+    60,LOTAD,6,6
+    40,FEEBAS,5,6
+GoodRod
+    50,FEEBAS,10,16
+    50,LOTAD,10,15
+Land,21
+    40,PACUNA,3,4
+    30,MINIMELO,3,4
+    30,WRENNER,3,4
+Corn,5
+    75,BUDEW,5
+    20,WRENNER,3,5
+    5,PACUNA,2,4
+#-------------------------------
+[078] # Hacienda Fields
+Corn,5
+    50,BUDEW,4,5
+    30,MINIMELO,4,5
+    20,WRENNER,5
+#-------------------------------
+[005] # San Cerigold Cemetery
+Land,21
+    35,PACUNA,6,7
+    30,BUDEW,6,6
+    25,FLABEBE,6,7
+    10,WORMOTE,6,7
+#-------------------------------
+[026] # Route 2
+Land,21
+    20,SKIDDO,6,7
+    25,FLABEBE,6,7
+    25,WRENNER,6,7
+    15,WORMOTE,6,7
+    15,M_EKANS,6,7
+#-------------------------------
+[031] # Monarca
+Land,21
+    30,MINIMELO,7,7
+    20,WRENNER,8,8
+    20,PACUNA,8,8
+    20,PHANTUMP,8,8
+    10,M_EKANS,7,7
+#-------------------------------
+[034] # Monarca Cave
+Cave,5
+    20,BUDEW,8,8
+    20,FLABEBE,9,9
+    20,BALTOY,8,8
+    20,KNOGGIN,8,8
+    20,CHICATTA,10,10
+Land,21
+    25,BUDEW,8,8
+    25,FLABEBE,9,9
+    25,CHICATTA,9,9
+    20,BALTOY,8,8
+    5,KNOGGIN,8,8
+#-------------------------------
+[035] # Monarca Cave 2
+Cave,5
+    20,BUDEW,8,8
+    20,FLABEBE,9,9
+    20,BALTOY,8,8
+    20,KNOGGIN,8,8
+    20,CHICATTA,10,10
+#-------------------------------
+[106] # Butterfly Sanctuary Entrance
+Land,21
+    30,LEDYBA,9,9
+    30,SCATTERBUG,7
+    20,WORMOTE,10
+    15,SPEWPA,9
+    5,BURBRAWL,8,8
